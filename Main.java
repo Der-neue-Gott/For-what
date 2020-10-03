@@ -1,4 +1,4 @@
-//James Gosling - the creator of JAVA
+// "Java – это C ++ без ружей, ножей и бейсбольных бит" - James Gosling
 
 public class Main {
 	public static void main(String[] args) {
