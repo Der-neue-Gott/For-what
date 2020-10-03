@@ -1,3 +1,5 @@
+//James Gosling - the creator of JAVA
+
 public class Main {
 	public static void main(String[] args) {
 		
