@@ -1,3 +1,5 @@
+//Linus Torvalds - the creator of LINUX
+
 public class Main {
 	public static void main(String[] args) {
 		
