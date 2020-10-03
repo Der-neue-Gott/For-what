@@ -1,4 +1,4 @@
-//Linus Torvalds - the creator of LINUX
+// "Мне же помогал скоротать зиму особый вид спорта для закрытых помещений: программирование." - Linus Torvalds
 
 public class Main {
 	public static void main(String[] args) {
